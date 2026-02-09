@@ -20,7 +20,7 @@
     <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 </div>
-
+<br><br>
 <div>
   <h2>Connect with me:</h2>
   <a href="leonardoteixeira0907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
