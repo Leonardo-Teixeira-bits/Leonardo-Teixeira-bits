@@ -20,16 +20,14 @@
     <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 </div>
-<br>
 
-
-<br>
 <div>
   <h2>Connect with me:</h2>
   <a href="leonardoteixeira0907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leonardo-teixeira-2799703a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://www.instagram.com/leoteixeira2002/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+    
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo-Teixeira-bits/Leonardo-Teixeira-bits/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leonardo-Teixeira-bits/Leonardo-Teixeira-bits/output/github-contribution-grid-snake-dark.svg">
